@@ -8,7 +8,7 @@ Installation
 4. The program will make individual images and then repack them into a PDF, please be patient!
 
 Disclaimer!
-This project was made at 3 AM with the help of the deities that are ChatGPT and the beings on StackOverFlow and GitHub. Use however you want.
+This project was made at 3 AM with the help of the deities that are ChatGPT and the beings on StackOverFlow and GitHub. My memories are hazy and i do not recall many things. Use however you want, just dont expect any support!
 
 Credits 
 This project is based on Lyonk71's repository https://github.com/Lyonk71/invert-pdf-color 
